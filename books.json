@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Titulo Modificado x2",
+    "author": "José Alfredo Escobar Rodriguez",
+    "year": "2021",
+    "isbn": "123-1",
+    "status": true,
+    "id": 1
+  },
+  {
+    "title": "Titulo 2 Mod",
+    "author": "José Alfredo Escoba",
+    "year": "2020",
+    "isbn": "123-22",
+    "status": false,
+    "id": 2
+  },
+  {
+    "title": "Titulo 3",
+    "author": "José Alfredo Escobar Rodriguez",
+    "year": 2022,
+    "isbn": "123-3",
+    "status": true,
+    "id": 3
+  },
+  {
+    "title": "Titulo 4",
+    "author": "José Alfredo Escobar Rodriguez",
+    "year": 2021,
+    "isbn": "123-4",
+    "status": false,
+    "id": 4
+  },
+  {
+    "title": "Titulo 5",
+    "author": "José Alfredo Escobar Rodriguez",
+    "year": 2021,
+    "isbn": "123-5",
+    "status": true,
+    "id": 5
+  },
+  {
+    "title": "Titulo 6",
+    "author": "José Alfredo Escobar Rodriguez",
+    "year": 2021,
+    "isbn": "123-6",
+    "status": true,
+    "id": 6
+  },
+  {
+    "title": "Titulo 7",
+    "author": "José Alfredo Escobar Rodriguez",
+    "year": 2021,
+    "isbn": "123-7",
+    "status": true,
+    "id": 7
+  },
+  {
+    "title": "Titulo 8",
+    "author": "José Alfredo Escobar Rodriguez",
+    "year": 2020,
+    "isbn": "123-8",
+    "status": true,
+    "id": 8
+  },
+  {
+    "title": "Titulo 9",
+    "author": "José Alfredo Escobar Rodriguez",
+    "year": 2020,
+    "isbn": "123-9",
+    "status": true,
+    "id": 9
+  },
+  {
+    "id": 10,
+    "title": "otro",
+    "author": "otro",
+    "year": "123",
+    "isbn": "123",
+    "status": false
+  },
+  {
+    "id": 11,
+    "title": "another",
+    "author": "luis",
+    "year": "195",
+    "isbn": "123-41",
+    "status": true
+  }
+]
